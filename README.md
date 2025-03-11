@@ -2,7 +2,9 @@
 IIT DELHI_FINALISTS
 
 main_website = https://medchainai.netlify.app
+
 ai_security = https://medchainai-aisecurity.netlify.app/
+
 blockchain_hashing = https://medchainai-blockhain.netlify.app/
 
 # **MedChain AI - Secure Health Data & Blockchain Hashing**
@@ -106,6 +108,9 @@ eas build --platform all
 - Implement **smart contract-based verification**.
 - Enable **real-time AI recommendations** based on health trends.
 - Expand **blockchain audit trails** for complete transparency.
+
+## **Note
+The files in GitHub is mixed between the 3 webistes hence use the deployed websites and refer to the Demo_video for better understanding of how to use it.
 
 ## **License**
 This project is open-source under the **MIT License**.
