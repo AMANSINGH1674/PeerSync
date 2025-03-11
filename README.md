@@ -111,6 +111,9 @@ eas build --platform all
 
 ## **Note
 The files in GitHub is mixed between the 3 webistes hence use the deployed websites and refer to the Demo_video for better understanding of how to use it.
+MedChaiAI's Blockchain verification is limited. Hence sub domain { https://medchainai-blockhain.netlify.app/ } to the webiste though it generates HASH code 
+MedChaiAI's AI&Security page { https://medchainai-aisecurity.netlify.app/ } allows for extracting symptoms
+Example pdf is provided, one can use patient1.pdf provided for https://medchainai-aisecurity.netlify.app/ to acheive results.
 
 ## **License**
 This project is open-source under the **MIT License**.
