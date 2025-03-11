@@ -1,18 +1,3 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
-body {
-  font-family: 'Inter', system-ui, -apple-system, sans-serif;
-}
-
-@layer base {
-  :root {
-    --primary: 221 83% 53%;
-    --primary-foreground: 210 40% 98%;
-  }
-}
-
-.loading {
-  @apply animate-pulse;
-}
